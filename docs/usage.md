@@ -17,34 +17,6 @@ DokuWiki 是一个简单易用、用途多样并且不依赖数据库的开源�
 
 其中，地域、规格、推荐配置使用默认，购买方式根据您的需求选择按需/按月/按年，短期使用推荐按需，长期使用推荐按月/按年，确认配置后点击“立即购买”。
 
-## 商品支持自定义 ECS 购买，具体见 [ECS 控制台配置](#ECS控制台配置)
-
-## 使用 RFS 模板直接部署
-
-1. 选择 **模板配置开通**，点击 **下一步**。
-
-![](images/img13.png)
-
-![](images/img.png)
-
-2. 必填项填写后，点击 **下一步**。
-
-![](images/img2.png)
-
-![](images/img3.png)
-
-3. 创建直接计划后，点击 **确定**。
-
-![](images/img4.png)
-
-4. 点击 **部署**。
-
-![](images/img5.png)
-
-5. 如下图出现 `Apply required resource success` 即为资源创建完成。
-
-![](images/img6.png)
-
 # 商品资源配置
 
 商品支持 **ECS 控制台配置**，下面对资源配置的方式进行介绍。
@@ -88,3 +60,8 @@ http://$ip/dokuwiki/install.php
 ![](images/img10.png)
 
 按照要求填写信息，点击“save”，即可使用dokuwiki。
+
+![](images/img11.png)
+
+## 参考文档
+[Dokuwiki官网](https://www.dokuwiki.org/dokuwiki)
